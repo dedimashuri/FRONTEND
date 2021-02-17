@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+
+.foto-round{
+    height: 120px;
+    border-radius: 75px;
+    width: 120px;
+    border: 1px solid yellowgreen;
+    overflow:  hidden;
+
+}
+.colored-font{
+    color: cornflowerblue;
+}
