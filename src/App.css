@@ -1,0 +1,14 @@
+.Toastify__toast--error {
+  background-color: hotpink !important;
+}
+
+.bg-modal {
+  background-color: khaki !important;
+}
+
+.heart:hover {
+  color: red !important;
+}
+.share:hover {
+  color: rgb(76, 162, 243) !important;
+}
